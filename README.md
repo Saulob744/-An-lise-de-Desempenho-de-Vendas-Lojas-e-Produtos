@@ -28,7 +28,3 @@ Identificar padrões, oportunidades e pontos de melhoria nos resultados de venda
 - **Pandas**
 - **Matplotlib**
 - **Jupyter Notebook**
-
----
-
-## 📂 Estrutura do Repositório
